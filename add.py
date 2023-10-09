@@ -1,2 +1,1 @@
-def add(a,b):
-    return a+b
+print ("the addition is of a+b is: 30")
