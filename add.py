@@ -1,1 +1,1 @@
-print ("the addition is of a+b is: 50")
+print ("the addition is of a+b is: 500")
